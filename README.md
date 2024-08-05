@@ -32,7 +32,7 @@ Mục tiêu của cuộc thi Credit Risk Model Stability là dự đoán khách 
 
  - Slide báo cáo; [Final Slide](https://github.com/VanKhaiii/CS116.O21/blob/main/Final%20Project/CS116_Final%20Report.pdf)
 
-<img src = "https://github.com/VanKhaiii/CS105.O21/blob/main/Images/image.png">
+<img src = "https://www.google.com/search?q=home+credit+kaggle&sa=X&sca_esv=098f310337d61f75&biw=1488&bih=754&sxsrf=ADLYWIKXytU21gpglu6S2KyoHupcpZrpMQ:1722825825109&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWfbQph1uib-VfD_izZO2Y5sC3UdQE5x8XNnxUO1qJLaRNHZJ034EBPETvVA_NYoimgmgd4EZdAj9HjLp0ViX1ho4dhFBirXK7Fy8EbfwPjUWEUwZUCoklL8uwTjHQzM4zy3CqdBfcvnllPWBVvX-za5Svaxv1C-IVuYHf7EyL_ndcpiZV&ved=2ahUKEwiC58Kq6tyHAxV98jgGHS6JGngQtKgLegQIAhAG#vhid=yyVmVjE8_c1ggM&vssid=mosaic">
 <!-- Footer -->
 <p align='center'>Copyright © 2023 - Trương Văn Khải</p>
 
