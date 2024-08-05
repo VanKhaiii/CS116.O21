@@ -30,7 +30,7 @@
  ### Giới thiệu đề tài
 Mục tiêu của cuộc thi Credit Risk Model Stability là dự đoán khách hàng nào có khả năng vỡ nợ caohơn. Việc đánh giá sẽ ưu tiên những giải pháp ổn định theothời gian. Trong cuộc thi này, nhóm đạt điểm số 0.599 trênpublic test và 0.527 trên private test bằng cách sử dụng kết hợp các mô hình LightGBM và CatBoost mà không sử dụngbất kỳ thủ thuật nào với chỉ số đánh giá. Khi nhóm sử dụngcác thủ thuật với chỉ số đánh giá, đã đạt điểm số trên bảng xếp hạng public test là 0.662. Kết thúc cuộc thi, nhóm đạt vịtrí thứ 66/3883 và giành được huy chương bạc.
 
- - Slide báo cáo; [Final Slide](https://github.com/VanKhaiii/CS105.O21/blob/main/Final%20Project/Final%20Report.pptx)
+ - Slide báo cáo; [Final Slide](https://github.com/VanKhaiii/CS116.O21/blob/main/Final%20Project/CS116_Final%20Report.pdf)
 
 <img src = "https://github.com/VanKhaiii/CS105.O21/blob/main/Images/image.png">
 <!-- Footer -->
